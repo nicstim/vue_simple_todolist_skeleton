@@ -12,9 +12,6 @@
                 test: 'Hello world'
             }
         },
-        methods: {
-
-        },
 
     }
 </script>
